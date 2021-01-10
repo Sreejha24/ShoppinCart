@@ -1,0 +1,41 @@
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.exe
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.dll.config
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.deps.json
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.runtimeconfig.json
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.runtimeconfig.dev.json
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\NTier Architecture.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\BusinessAccessLayer.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\DataAccsessLayer.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\BusinessAccessLayer.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\bin\Debug\netcoreapp3.1\DataAccsessLayer.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.csprojAssemblyReference.cache
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.AssemblyInfoInputs.cache
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.AssemblyInfo.cs
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.csproj.CoreCompileInputs.cache
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.csproj.CopyComplete
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\NTier Architecture\obj\Debug\netcoreapp3.1\NTier Architecture.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\bin\Debug\netcoreapp3.1\DataAccsessLayer.deps.json
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\bin\Debug\netcoreapp3.1\DataAccsessLayer.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.csprojAssemblyReference.cache
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.AssemblyInfo.cs
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\bin\Debug\netcoreapp3.1\DataAccsessLayer.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.dll
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.pdb
+C:\Users\sprathipati\Desktop\24\NTier Architecture\DataAccsessLayer\obj\Debug\netcoreapp3.1\DataAccsessLayer.csproj.CoreCompileInputs.cache
