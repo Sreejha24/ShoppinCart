@@ -769,20 +769,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sprathipati\\.nuget\\packages\\": {}
+    "C:\\Users\\chait\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectUniqueName": "D:\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "projectName": "BusinessAccessLayer",
-      "projectPath": "D:\\Practice\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\sprathipati\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\obj\\",
+      "projectPath": "D:\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\chait\\.nuget\\packages\\",
+      "outputPath": "D:\\MVCAsses\\NTier Architecture1\\BusinessAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sprathipati\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\chait\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -793,9 +798,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Practice\\MVCAsses\\NTier Architecture1\\DataAccsessLayer\\DataAccsessLayer.csproj": {
-              "projectPath": "D:\\Practice\\MVCAsses\\NTier Architecture1\\DataAccsessLayer\\DataAccsessLayer.csproj"
+            "D:\\MVCAsses\\NTier Architecture1\\DataAccsessLayer\\DataAccsessLayer.csproj": {
+              "projectPath": "D:\\MVCAsses\\NTier Architecture1\\DataAccsessLayer\\DataAccsessLayer.csproj"
             }
           }
         }
@@ -808,6 +814,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -823,7 +830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

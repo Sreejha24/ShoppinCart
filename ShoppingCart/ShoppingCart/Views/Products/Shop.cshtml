@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ShoppingCart.Models.Product>
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<h1>Shop</h1>
+
+<table class="table">
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                <h4>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </h4>
+                <img src="~/Images/@item.FileImage" alt="@item.ProductName" />
+            </td>
+            <td>
+                <div class="row">
+                    <div>
+                        <form class="" method="post" action="/Products/AddToCart">
+                            @Html.AntiForgeryToken()
+                            <div class="form-group">
+                                <label>
+                                    Qty :
+                                </label>
+                                <select name="Qty" id="Qty" class="form-control">
+                                    :
+                                    @for (int i = 1; i < 10; i++)
+                                    {
+                                        <option value="@i">@i</option>
+                                    }
+                                </select>
+                            </div>
+                            <br />
+                            <div class="form-group">
+                                <label>
+                                    Price :
+                                </label>
+                                @item.ProductPrice.ToString("00.00");
+                                <input type="hidden" name="Price" value="@item.ProductPrice" />
+                            </div>
+                            <div class="form-group">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <input type="submit" class="btn btn-success" value="Add To Cart" />
+                                    <input type="hidden" name="ProductId" value="@item.ProductId" />
+                                }
+                                else
+                                {
+                                    <a href=" /Identiy/Account/Login" class="btn btn-warning">Login to Order</a>
+                                }
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    }
+</table>
